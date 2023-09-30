@@ -37,7 +37,7 @@ Make sure to install and reference these libraries in your project to use the pr
 
 ## License
 
-This project is open-source and available under the MIT License. See the [LICENSE](LICENSE) file for details.
+This project is open-source and available under the MIT License. See the [LICENSE](LICENSE.txt) file for details.
 
 ## Acknowledgments
 
